@@ -1,0 +1,13 @@
+# - What is the basic flow of configuring redux into reactapp
+#   - Create a store
+#   - Define Reducers
+#   - Connect reducers to store
+#   - Wrap parent component with selector & pass store as a prop
+#   - Try useSelector to read store data inside a component
+#   - Try useDispatch to send data to reducer using action
+#   - Perform action inside reducer
+# - What is useSelector & syntax of it
+# - What is useDispatch & syntax of it
+# - Component level redux setup
+#   - Actions
+#   - Reducers
